@@ -28,5 +28,5 @@ git add themes/next/
 
 git commit -m "commit nexT"
 
-git push origin file
+git push origin master
 {% endcodeblock %}

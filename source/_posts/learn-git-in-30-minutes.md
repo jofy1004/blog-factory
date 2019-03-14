@@ -3,12 +3,11 @@ title: 30 分钟 git 命令入门
 date: 2016-06-29 12:05:18
 tags: git
 comments: false
+categories: 学习交流
 ---
 
 {% blockquote %}
-英文：tutorialzine
-译者：w3ctrain
-链接：http://www.w3ctrain.com/2016/06/26/learn-git-in-30-minutes/
+转自：http://www.w3ctrain.com/2016/06/26/learn-git-in-30-minutes/
 {% endblockquote %}
 
 这是一篇给像我这样的新手或者是熟悉图形工具的老鸟看的。仅作为快速入门的教程。

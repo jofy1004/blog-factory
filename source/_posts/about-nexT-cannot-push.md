@@ -2,6 +2,7 @@
 title: 关于hexo使用了nexT，但是无法push到github的问题解决
 date: 2019-03-14 21:53:14
 tags: hexo github
+categories: 疑难杂症
 ---
 clone主题nexT后，再push，发现github的文件夹是空的，没有提示错误，本地也完成了提交，无任何change，于是百度找原因，发现一个作者跟我有类似问题。
 {% blockquote %}

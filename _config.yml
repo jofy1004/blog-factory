@@ -7,8 +7,8 @@ title: Rocky's Blog
 subtitle: 多一事不如少一事
 description:
 author: Rocky Zhou
-language:
-timezone: CH
+language: zh-Hans
+timezone: Asia/shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -72,10 +72,16 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: https://github.com/jofy1004/blog.git
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000

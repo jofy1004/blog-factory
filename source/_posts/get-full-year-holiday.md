@@ -71,7 +71,7 @@ comments: true
 	}
 }
 {% endcodeblock%}
-返回的JSON，1代表假日，2代表节日；由于是免费版本，代表节日或假日的标识符会随机变化，如果想要正确数据，请访问{% link EasyBots.cn http://www.easybots.cn/holiday_api.net %}去购买正版。
+返回的JSON，1代表假日，2代表节日；由于是免费版本，代表节日或假日的标识符会随机变化，如果想要正确数据，请访问{% link EasyBots.cn http://www.easybots.cn/holiday_api.net %}去购买。
 不过只需要区分节假日和工作日，不看标识符，那么这个数据还是正确的，包括调休。
 
 ## 获取某一天是否节假日

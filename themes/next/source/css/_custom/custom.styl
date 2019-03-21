@@ -1,19 +1,47 @@
 // Custom styles.
 body {
-  background:url(https://source.unsplash.com/random/1600x900);
+  /*background: url(../images/backgroud-body.jpg);
   background-repeat: no-repeat;
-  background-attachment:fixed;
-  background-position:50% 50%;
-}
-.main-inner {
-  opacity :0.9;
+  background-attachment: fixed;
+  background-position: 50% 50%;*/
 }
 
-.menu-item-active a:after{
+/*
+.main-inner {
+  opacity: 0.9;
+}
+*/
+
+body::after {
+  content: '';
+  background: url(../images/backgroud-body.jpg);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  z-index: -1;
+  background-position: center top;
+  background-size: cover;
+  background-attachment: fixed;
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(10px);
+  -ms-filter: blur(10px);
+  -o-filter: blur(10px);
+  filter: blur(10px);
+}
+
+.menu-item-active a::after {
   background: url(../images/ku-wu.svg);
   background-size: 100%;
   width: 20px;
   height: 20px;
   border-radius: initial;
   top: 30%;
+  transform: rotate(225deg);
+}
+
+.site-author-image {
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.8);
 }

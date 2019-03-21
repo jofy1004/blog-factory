@@ -1,7 +1,7 @@
 ---
 title: 获取全年法定节假日API
 date: 2019-03-21 10:52:10
-tags: 节假日
+tags: [节假日, holiday]
 categories: 学习交流
 comments: true
 ---

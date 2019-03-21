@@ -360,8 +360,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
-  shortname: R
+  enable: false
+  shortname:
   count: true
 
 # Hypercomments
@@ -395,7 +395,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC80MzMxNS8xOTg1Ng==
 
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
@@ -430,7 +430,7 @@ gitment:
 #add_this_id:
 
 # Share
-#duoshuo_share: true
+duoshuo_share: true
 
 # NeedMoreShare2
 # This plugin is a pure javascript sharing lib which is useful in China.

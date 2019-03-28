@@ -1,5 +1,6 @@
 ---
 title: 关于hexo使用了nexT，但是无法push到github的问题解决
+premalink: about-nexT-cannot-push.md
 date: 2019-03-14 21:53:14
 tags: [hexo, nexT, github, git]
 categories: 疑难杂症

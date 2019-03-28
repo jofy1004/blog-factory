@@ -1,5 +1,6 @@
 ---
 title: 30 分钟 git 命令入门
+premalink: learn-git-in-30-minutes.md
 date: 2016-06-29 12:05:18
 tags: git
 comments: false

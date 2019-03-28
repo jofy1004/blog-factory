@@ -1,5 +1,6 @@
 ---
 title: 图解javascript this指向什么？
+premalink: js-this.md
 date: 2016-07-14 22:00:20
 tags: [js, javascript, this]
 categories: 前端

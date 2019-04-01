@@ -64,7 +64,7 @@ Uploads can be canceled by invoking the abort method on a jqXHR object:
     data.abort();
 })
 {% endcodeblock %}
-但是，data.abort()在其他事件中如send调用是无效，无法阻止；change时间里的data无abort方法；
+但是，data.abort()在其他事件中如send调用是无效，无法阻止；change事件里的data无abort方法；
 
 ## 关于全部阻止上传
 可以设置一个全局标志位，在fileuploadadd中加上判断，如果全局标志位阻止上传，那么执行data.abort()方法；反之不执行；
@@ -119,11 +119,11 @@ singleFileUploads: true,
 }).bind('fileuploadprogress', function (e, data) {
     // 每个文件单独的进度
 }).bind('fileuploadprogressall', function (e, data) {
-    // 所有文件单独的进度
+    // 所有文件的进度
 })
 ...
 {% endcodeblock %}
-但是如果singleFileUploads: false,那就是把所有文件当做一个请求上传，所有的都只会调用一次，成功所有文件上传完成，一个失败，所有都没有上传。
+但是如果singleFileUploads: false,那就是把所有文件当做一个请求上传，所有的事件都只会调用一次，成功所有文件上传完成，一个失败，所有都没有上传。
 
 ## 关于事件调用
 {% codeblock lang:js %}

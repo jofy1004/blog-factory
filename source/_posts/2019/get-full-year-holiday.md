@@ -14,7 +14,7 @@ comments: true
 ##  获取某个月的节假日
 网上有一些现成的访问地址，提供了这些功能。
 如：http://www.easybots.cn/api/holiday.php?m=201901 直接访问后，返回JSON如下。
-{% codeblock lang:json %}
+```json
 {
 	"201901": {
 		"01": "2",
@@ -28,11 +28,11 @@ comments: true
 		"27": "1"
 	}
 }
-{% endcodeblock %}
+```
 
 ##  获取多个月的节假日
 后面可以接多个月份，如：http://www.easybots.cn/api/holiday.php?m=201901,201902,201903
-{% codeblock lang:json %}
+```json
 {
 	"201901": {
 		"01": "2",
@@ -71,7 +71,7 @@ comments: true
 		"31": "2"
 	}
 }
-{% endcodeblock%}
+```
 返回的JSON，1代表假日，2代表节日；由于是免费版本，代表节日或假日的标识符会随机变化，如果想要正确数据，请访问{% link EasyBots.cn http://www.easybots.cn/holiday_api.net %}去购买。
 不过只需要区分节假日和工作日，不看标识符，那么这个数据还是正确的，包括调休。
 
@@ -81,7 +81,7 @@ comments: true
 
 ## 获取工作日完整Java代码
 下面就贴一份获取全年工作日的java代码片段：
-{% codeblock lang:java %}
+```java
 /**
  * 同步一年中的假期;
  */
@@ -175,7 +175,7 @@ private List<String> getMonthFullDay(int year, int month) {
     }
     return fullDayList;
 }
-{% endcodeblock %}
+```
 
 # 其他节假日API：
 ## {% link goseek http://api.goseek.cn/ %}

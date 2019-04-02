@@ -36,10 +36,10 @@ OK，一切就绪，启动上传，报错：
 
 ## 关于always
 源文件中给出always事件的注释如下：
-{% codeblock lang:js %}
+```javascript
 // Callback for completed (success, abort or error) requests:
 // always: function (e, data) {}, // .bind('fileuploadalways', func);
-{% endcodeblock %}
+```
 我的理解是，在success, abort or error请求完成后，调用此事件，所以自热而然的理解为是调用完done(fileuploaddone)、fail(fileuploadfail)事件后，再调用always(fileuploadalways)，然而并不是，always是在这俩事件之前调用。
 
 ## 关于abort
@@ -59,11 +59,11 @@ Uploads can be canceled by invoking the abort method on a jqXHR object:
     {% endcodeblock %}
 {% endblockquote %}
 如果要使用这个功能，需要保存所有上传对象，非常麻烦；后来发现在事件add中，第二个参数data有abort方法，直接调用就可以阻止上传；
-{% codeblock lang:js %}
+```javascript
 .bind('fileuploadadd', function (e, data) {
     data.abort();
 })
-{% endcodeblock %}
+```
 但是，data.abort()在其他事件中如send调用是无效，无法阻止；change事件里的data无abort方法；
 
 ## 关于全部阻止上传
@@ -90,22 +90,22 @@ Uploads can be canceled by invoking the abort method on a jqXHR object:
 disableImageResize：false，就可以开启图片压缩；
 
 ## 关于上传图标样式
-{% codeblock lang:html %}
+```html
 <input type="file" id="jQueryFileUploadButton" name="Filedata" multiple/>
-{% endcodeblock %}
+```
 由于此组件使用html原生上传按钮，那是非常难看，而且这个按钮还有个霸王条款，不许trigger('click')来触发点击，只能鼠标点击；官方给出了解决办法：
 ![](jQuery-file-upload-issue-md/include-2.png)
 先做一个好看的按钮放在那，将上传按钮全透明后，覆盖在好看按钮上面，艾玛，没有做不到，只有想不到，大写的服气。。。
 
 ## 关于singleFileUploads
-{% codeblock lang:js %}
+```javascript
 // By default, each file of a selection is uploaded using an individual
 // request for XHR type uploads. Set to false to upload file
 // selections in one request each:
 singleFileUploads: true,
-{% endcodeblock %}
+```
 这个意思是设置为true，一次可以选择多个图片，但是每个图片作为单独请求上传，那么change事件调用一次，add事件、send事件等会循环调用；
-{% codeblock lang:js %}
+```javascript
 ...
 .bind('fileuploadchange', function (e, data) {
     // 调用一次
@@ -122,11 +122,11 @@ singleFileUploads: true,
     // 所有文件的进度
 })
 ...
-{% endcodeblock %}
+```
 但是如果singleFileUploads: false,那就是把所有文件当做一个请求上传，所有的事件都只会调用一次，成功所有文件上传完成，一个失败，所有都没有上传。
 
 ## 关于事件调用
-{% codeblock lang:js %}
+```javascript
 $('#fileupload').fileupload({
     url:'',
     autoUpload: true,
@@ -147,11 +147,11 @@ $('#fileupload').fileupload({
     .bind('fileuploadadd', function (e, data) {/* ... */})
     .bind('fileuploadsend', function (e, data) {/* ... */});
 ...
-{% endcodeblock %}
+```
 不要纠结，这两种绑定一样一样，爱用哪个就用哪个。
 ## 关于官网API
 jQuery File Upload组件提供很多属性，但是官网API没有对应解释，只有个别样例，只能看源码里面的注释，作者很相信大家的能力。
-{% codeblock lang:js %}
+```javascript
 options: {
     // The drop target element(s), by the default the complete document.
     // Set to null to disable drag & drop support:
@@ -349,4 +349,4 @@ options: {
     cache: false,
     timeout: 0
 }
-{% endcodeblock %}
+```

@@ -102,7 +102,7 @@ disableImageResize：false，就可以开启图片压缩；
 // By default, each file of a selection is uploaded using an individual
 // request for XHR type uploads. Set to false to upload file
 // selections in one request each:
-singleFileUploads: true,
+singleFileUploads: true
 ```
 这个意思是设置为true，一次可以选择多个图片，但是每个图片作为单独请求上传，那么change事件调用一次，add事件、send事件等会循环调用；
 ```javascript

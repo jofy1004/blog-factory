@@ -7,7 +7,7 @@ categories: 学习交流
 comments: true
 ---
 # 引言
-大家都知道，每年{% link 中国政府网 http://www.gov.cn/xinwen/2018-12/06/content_5346287.htm 2019年公休安排 %}都会公布法定节日调休安排，我们如何获取这些数据呢？
+大家都知道，每年[中国政府网](http://www.gov.cn/xinwen/2018-12/06/content_5346287.htm)2019年公休安排 %}都会公布法定节日调休安排，我们如何获取这些数据呢？
 
 # 开始
 
@@ -72,7 +72,7 @@ comments: true
 	}
 }
 ```
-返回的JSON，1代表假日，2代表节日；由于是免费版本，代表节日或假日的标识符会随机变化，如果想要正确数据，请访问{% link EasyBots.cn http://www.easybots.cn/holiday_api.net %}去购买。
+返回的JSON，1代表假日，2代表节日；由于是免费版本，代表节日或假日的标识符会随机变化，如果想要正确数据，请访问[EasyBots.cn](http://www.easybots.cn/holiday_api.net)去购买。
 不过只需要区分节假日和工作日，不看标识符，那么这个数据还是正确的，包括调休。
 
 ## 获取某一天是否节假日
@@ -178,12 +178,12 @@ private List<String> getMonthFullDay(int year, int month) {
 ```
 
 # 其他节假日API：
-## {% link goseek http://api.goseek.cn/ %}
+## [goseek](http://api.goseek.cn/)
 http://api.goseek.cn/Tools/holiday?date=20190202
 只有判断天是否节假日，0代表工作日，1代表节日，2代表假日，数据准确，但无节日的调休信息。
 
 
-## {% link 搜啊 http://tool.bitefu.net/ %}
+## [搜啊](http://tool.bitefu.net/)
 http://tool.bitefu.net/jiari/?d=2019
 http://tool.bitefu.net/jiari/?d=201902
 http://tool.bitefu.net/jiari/?d=20190203

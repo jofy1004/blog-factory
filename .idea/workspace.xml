@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8cdbc8c-5c69-47a2-9bc9-92ef170a4211" name="Default" comment="commit next">
+    <list default="true" id="a8cdbc8c-5c69-47a2-9bc9-92ef170a4211" name="Default" comment="增加readme">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
       <workItem from="1552648599497" duration="2190000" />
       <workItem from="1552659144185" duration="2242000" />
       <workItem from="1553159030959" duration="560000" />
-      <workItem from="1589944510317" duration="1966000" />
+      <workItem from="1589944510317" duration="3197000" />
     </task>
     <task id="LOCAL-00001" summary="commit next">
       <created>1552571437077</created>
@@ -115,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553140582549</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="增加readme">
+      <created>1589946616695</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589946616696</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,16 +134,25 @@
     <MESSAGE value="增加一片文章" />
     <MESSAGE value="增加打赏功能；" />
     <MESSAGE value="获取全年法定节假日API" />
-    <option name="LAST_COMMIT_MESSAGE" value="获取全年法定节假日API" />
+    <MESSAGE value="增加readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加readme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1589946609393">
+    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1589947724102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1589946609393" />
-    <state x="129" y="61" key="DiffContextDialog" timestamp="1589946593440">
+    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1589947724102" />
+    <state x="129" y="61" key="DiffContextDialog" timestamp="1589947723432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="129" y="61" key="DiffContextDialog/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1589946593440" />
+    <state x="129" y="61" key="DiffContextDialog/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1589947723432" />
+    <state x="501" y="75" key="RollbackChangesDialog" timestamp="1589947372926">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="501" y="75" key="RollbackChangesDialog/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1589947372926" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1589946628994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1589946628994" />
   </component>
 </project>

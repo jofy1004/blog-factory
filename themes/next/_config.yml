@@ -353,7 +353,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics:0b5e6b0c733103876d34de73c5e0d405
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -572,7 +572,7 @@ tencent_analytics: 66193833
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page

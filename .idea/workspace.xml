@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cdbc8c-5c69-47a2-9bc9-92ef170a4211" name="Default" comment="增加readme">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +69,7 @@
       <workItem from="1552648599497" duration="2190000" />
       <workItem from="1552659144185" duration="2242000" />
       <workItem from="1553159030959" duration="560000" />
-      <workItem from="1589944510317" duration="3197000" />
+      <workItem from="1589944510317" duration="3293000" />
     </task>
     <task id="LOCAL-00001" summary="commit next">
       <created>1552571437077</created>
@@ -138,14 +136,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="增加readme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1589947724102">
+    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1589947732970">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1589947724102" />
-    <state x="129" y="61" key="DiffContextDialog" timestamp="1589947723432">
+    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1589947732970" />
+    <state x="129" y="61" key="DiffContextDialog" timestamp="1589947732441">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="129" y="61" key="DiffContextDialog/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1589947723432" />
+    <state x="129" y="61" key="DiffContextDialog/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1589947732441" />
     <state x="501" y="75" key="RollbackChangesDialog" timestamp="1589947372926">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

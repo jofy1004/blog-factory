@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cdbc8c-5c69-47a2-9bc9-92ef170a4211" name="Default" comment="增加readme">
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/private-vnp/HostMem-control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/private-vnp/IP.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/private-vnp/client-ico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/private-vnp/openVPN-client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/private-vnp/openvpn-install-for-win10.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/gitspace/blog-factory.git/source/_posts/get-full-year-holiday.md" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/2020/private-vnp" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -31,14 +37,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/images" />
-      <recent name="$PROJECT_DIR$/source/_posts/js-this" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github_Workspace\blog-factory\source\_posts\2020\private-vnp" />
       <recent name="D:\gitspace\blog-factory.git\source\images" />
       <recent name="$PROJECT_DIR$/themes/next/source/images" />
       <recent name="$PROJECT_DIR$/themes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/images" />
+      <recent name="$PROJECT_DIR$/source/_posts/js-this" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -69,7 +76,8 @@
       <workItem from="1552648599497" duration="2190000" />
       <workItem from="1552659144185" duration="2242000" />
       <workItem from="1553159030959" duration="560000" />
-      <workItem from="1589944510317" duration="3293000" />
+      <workItem from="1589944510317" duration="7132000" />
+      <workItem from="1590029193301" duration="4152000" />
     </task>
     <task id="LOCAL-00001" summary="commit next">
       <created>1552571437077</created>

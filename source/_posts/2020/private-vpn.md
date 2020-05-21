@@ -10,7 +10,7 @@ comments: true
 最近vpn查封的较严，导致我的chrome无法登录，邮箱无法打开，书签无法同步，我又是个懒人，不想搞书签导出什么的，所以就想自己搭个vpn服务，仅做学习交流使用。
 
 # 首先我们需要个国外的VPS
-国外有好多VPS服务商，有的不支持中文，对于二把刀英语的我来说麻烦；有的由于**，不支持VPN服务，反正各种原因，最后选了[HostMem](https://www.hostmem.com/),支持中文，支持vpn，最便宜的$12.99/年，价格合理。
+国外有好多VPS服务商，有的不支持中文，对于二把刀英语的我来说麻烦；有的由于**，不支持VPN服务，反正各种原因，最后选了[HostMem](https://www.hostmem.com/?ref=jofy1004),支持中文，支持vpn，[最便宜的$12.99/年](https://vm.hostmem.com/vm/create/3?ref=jofy1004)，价格合理。
 买之，创建了经典云服务器，服务器信息都可以在概括中找到，用xshell直接连接；
 ![](private-vpn/HostMem-control.png)
 

@@ -1,6 +1,6 @@
 ---
 title: 创建自己的VPN服务
-premalink: private-vnp
+premalink: private-vpn
 date: 2020-05-21 10:49:12
 tags: [vpn]
 categories: 学习交流
@@ -12,7 +12,7 @@ comments: true
 # 首先我们需要个国外的VPS
 国外有好多VPS服务商，有的不支持中文，对于二把刀英语的我来说麻烦；有的由于**，不支持VPN服务，反正各种原因，最后选了[HostMem](https://www.hostmem.com/),支持中文，支持vpn，最便宜的$12.99/年，价格合理。
 买之，创建了经典云服务器，服务器信息都可以在概括中找到，用xshell直接连接；
-![](private-vnp/HostMem-control.png)
+![](private-vpn/HostMem-control.png)
 
 # 创建VPN服务
 最开始选用的是shadowsocks，服务端好了，客户端用[小飞机](https://tlanyan.me/shadowsock-clients/)，就是连接不成功。不知道缘由，没办法改成了openVPN;
@@ -45,7 +45,7 @@ sudo ./openvpn-install.sh
 cd /etc/openvpn-install
 sudo ./openvpn-install.sh
 ```
-![](private-vnp/openVPN-client.png)
+![](private-vpn/openVPN-client.png)
 ### 下载客户端配置文件
 生成的客户端文件保存至/root下面，把它下载下来一会要配置客户端使用。`友情提醒：下面这个命令要在客户端机器执行；`
 ```shell
@@ -53,11 +53,11 @@ scp 用户名@IP:/root/文件全名 本机保存地址
 ```
 ### 安装客户端应用
 下载客户端，我是window10，所以下载win10版本的客户端，长这样↓
-![](private-vnp/openvpn-install-for-win10.png)
+![](private-vpn/openvpn-install-for-win10.png)
 ### 连接服务端
 安装好后，打开提示，需要配置文件，把下载好的客户端文件按照路径放进去，我放在了安装目录下的/config文件夹中。客户端打开找不到看右下角
-![](private-vnp/client-ico.png)
+![](private-vpn/client-ico.png)
 ### 测试
 接下来，连接之，然后测试
-![](private-vnp/IP.png)
+![](private-vpn/IP.png)
 ### 成功。。。

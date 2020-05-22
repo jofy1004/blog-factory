@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cdbc8c-5c69-47a2-9bc9-92ef170a4211" name="Default" comment="增加readme">
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/create-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/create-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/create-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/create-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/exefile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/exeresult.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/meizitu_a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/meizitu_link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/meizitu_link_href.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/meizitu_link_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/result.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/gitspace/blog-factory.git/source/_posts/get-full-year-holiday.md" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/2020/private-vnp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -32,6 +44,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github_Workspace\blog-factory\source\_posts\2020\web-crawler-mzitu" />
       <recent name="D:\github_Workspace\blog-factory\source\_posts\2020\private-vnp" />
       <recent name="D:\gitspace\blog-factory.git\source\images" />
       <recent name="$PROJECT_DIR$/themes/next/source/images" />
@@ -71,7 +84,7 @@
       <workItem from="1552659144185" duration="2242000" />
       <workItem from="1553159030959" duration="560000" />
       <workItem from="1589944510317" duration="7132000" />
-      <workItem from="1590029193301" duration="6820000" />
+      <workItem from="1590029193301" duration="18368000" />
     </task>
     <task id="LOCAL-00001" summary="commit next">
       <created>1552571437077</created>

@@ -2,7 +2,7 @@
 title: 创建自己的VPN服务
 premalink: private-vpn
 date: 2020-05-21 10:49:12
-tags: [vpn]
+tags: [openVPN, vpn]
 categories: 学习交流
 comments: true
 ---

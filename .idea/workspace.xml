@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cdbc8c-5c69-47a2-9bc9-92ef170a4211" name="Default" comment="增加readme">
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/create-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/create-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/create-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/create-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/exefile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/exeresult.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/meizitu_a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/meizitu_link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/meizitu_link_href.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/meizitu_link_list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/python.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu/result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/shadowsocks-install/python-install.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/shadowsocks-install/success.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2020/private-vpn.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020/private-vpn.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +24,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/gitspace/blog-factory.git/source/_posts/get-full-year-holiday.md" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/2020/web-crawler-mzitu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/2020/shadowsocks-install" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -43,16 +35,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/images" />
+      <recent name="$PROJECT_DIR$/source/_posts/js-this" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github_Workspace\blog-factory\source\_posts\2020\shadowsocks-install" />
       <recent name="D:\github_Workspace\blog-factory\source\_posts\2020\web-crawler-mzitu" />
       <recent name="D:\github_Workspace\blog-factory\source\_posts\2020\private-vnp" />
       <recent name="D:\gitspace\blog-factory.git\source\images" />
       <recent name="$PROJECT_DIR$/themes/next/source/images" />
-      <recent name="$PROJECT_DIR$/themes" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/images" />
-      <recent name="$PROJECT_DIR$/source/_posts/js-this" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -84,7 +76,9 @@
       <workItem from="1552659144185" duration="2242000" />
       <workItem from="1553159030959" duration="560000" />
       <workItem from="1589944510317" duration="7132000" />
-      <workItem from="1590029193301" duration="18368000" />
+      <workItem from="1590029193301" duration="20499000" />
+      <workItem from="1590377280337" duration="133000" />
+      <workItem from="1591678680993" duration="2708000" />
     </task>
     <task id="LOCAL-00001" summary="commit next">
       <created>1552571437077</created>
@@ -166,6 +160,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="61" key="DiffContextDialog/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1590035936756" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1590377404677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1590377404677" />
     <state x="501" y="75" key="RollbackChangesDialog" timestamp="1590035937091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -178,5 +176,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="359" y="97" width="647" height="534" key="find.popup/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1590035813112" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591679032973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1591679032973" />
   </component>
 </project>

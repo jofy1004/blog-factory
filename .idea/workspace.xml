@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cdbc8c-5c69-47a2-9bc9-92ef170a4211" name="Default" comment="增加readme">
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/shadowsocks-install/python-install.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/2020/shadowsocks-install/success.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2020/private-vpn.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2020/private-vpn.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,8 @@
       <workItem from="1589944510317" duration="7132000" />
       <workItem from="1590029193301" duration="20499000" />
       <workItem from="1590377280337" duration="133000" />
-      <workItem from="1591678680993" duration="2708000" />
+      <workItem from="1591678680993" duration="4834000" />
+      <workItem from="1591773087134" duration="1718000" />
     </task>
     <task id="LOCAL-00001" summary="commit next">
       <created>1552571437077</created>
@@ -172,10 +170,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1590035876869" />
-    <state x="359" y="97" width="647" height="534" key="find.popup" timestamp="1590035813112">
+    <state x="359" y="97" width="647" height="534" key="find.popup" timestamp="1591773279698">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="359" y="97" width="647" height="534" key="find.popup/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1590035813112" />
+    <state x="359" y="97" width="647" height="534" key="find.popup/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1591773279698" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591679032973">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

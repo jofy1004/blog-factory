@@ -30,3 +30,21 @@ hexo new "filename"
 ``
 hexo deploy
 ``
+* 编译并发布文章到Github
+``
+hexo g -d
+``
+----
+
+* 提交到github
+```
+git push github master
+```
+
+* 提交到coding
+```
+git push coding master
+```
+
+
+

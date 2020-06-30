@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cdbc8c-5c69-47a2-9bc9-92ef170a4211" name="Default" comment="增加readme">
+      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/gitAndCodingDeploy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/gitAndCodingDeploy/githubs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/gitAndCodingDeploy/key.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/gitAndCodingDeploy/keysuccess.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/gitAndCodingDeploy/nomore.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/gitAndCodingDeploy/publickey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/gitAndCodingDeploy/pusherror.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/2020/gitAndCodingDeploy/sshkey.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/gitspace/blog-factory.git/source/_posts/get-full-year-holiday.md" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/2020/shadowsocks-install" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/2020/gitAndCodingDeploy" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -32,16 +43,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/images" />
-      <recent name="$PROJECT_DIR$/source/_posts/js-this" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github_Workspace\blog-factory\source\_posts\2020\gitAndCodingDeploy" />
       <recent name="D:\github_Workspace\blog-factory\source\_posts\2020\shadowsocks-install" />
       <recent name="D:\github_Workspace\blog-factory\source\_posts\2020\web-crawler-mzitu" />
       <recent name="D:\github_Workspace\blog-factory\source\_posts\2020\private-vnp" />
       <recent name="D:\gitspace\blog-factory.git\source\images" />
-      <recent name="$PROJECT_DIR$/themes/next/source/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/images" />
+      <recent name="$PROJECT_DIR$/source/_posts/js-this" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -76,7 +87,10 @@
       <workItem from="1590029193301" duration="20499000" />
       <workItem from="1590377280337" duration="133000" />
       <workItem from="1591678680993" duration="4834000" />
-      <workItem from="1591773087134" duration="1718000" />
+      <workItem from="1591773087134" duration="5994000" />
+      <workItem from="1591951038478" duration="1602000" />
+      <workItem from="1592185879547" duration="614000" />
+      <workItem from="1593501773150" duration="8476000" />
     </task>
     <task id="LOCAL-00001" summary="commit next">
       <created>1552571437077</created>
@@ -150,6 +164,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="增加readme" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="439" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591777910593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1591777910593" />
     <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1590035859605">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -170,13 +188,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1590035876869" />
-    <state x="359" y="97" width="647" height="534" key="find.popup" timestamp="1591773279698">
+    <state x="359" y="97" width="647" height="534" key="find.popup" timestamp="1591954808450">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="359" y="97" width="647" height="534" key="find.popup/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1591773279698" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591679032973">
+    <state x="359" y="97" width="647" height="534" key="find.popup/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1591954808450" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593505546390">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1591679032973" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-308.-1080.1920.1080@0.0.1366.728" timestamp="1593505546390" />
   </component>
 </project>
